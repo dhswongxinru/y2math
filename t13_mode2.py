@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 # Find mode(s) of n numbers
 
 A = [19, 18, 46, 18, 18, 19, 19]
